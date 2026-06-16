@@ -1,16 +1,16 @@
-# Changelog
-
----
-
-## v1.1.8 — June 16, 2026
+## Version 1.1.8 — June 16, 2026
 > BETA Release
 
-### What's New
-- BETA production readiness updates
+We've been working hard behind the scenes to make the app
+more stable and ready for everyone.
 
-### Notes
-- This is a BETA release. Please report any issues to the development team.
+### Updates
+- Improved app stability and performance for a smoother experience
+
+### Heads Up
+- This is a BETA version. If you notice anything unusual,
+  please let us know!
 
 ---
 
-*Last updated: June 16, 2026*
+*Thank you for being part of our BETA journey.*
