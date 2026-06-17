@@ -1,8 +1,17 @@
-## Version 1.1.8 — June 16, 2026
-
-> BETA Release
+## Version 1.1.9 — June 18, 2026
 
 ### What's New
 
-* Allow creating timesheets with total hours exceeding 12, with prompt feedback
-* Enhanced Customer No. selection experience
+* Improved app performance and stability
+* Enhanced overall user experience
+
+---
+
+## Version 1.1.8 — June 16, 2026
+
+**BETA Release**
+
+### What's New
+
+* Added support for creating timesheets exceeding 12 total hours with feedback prompts
+* Improved Customer No. selection experience
