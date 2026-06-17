@@ -2,8 +2,10 @@
 
 ### What's New
 
-* Improved app performance and stability
-* Enhanced overall user experience
+* Improved app performance and reliability
+* Enhanced login experience and clearer messages
+* Refined screen layouts for a smoother experience
+* General improvements and bug fixes
 
 ## Version 1.1.8 — June 16, 2026
 
