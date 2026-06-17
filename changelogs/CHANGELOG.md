@@ -5,8 +5,6 @@
 * Improved app performance and stability
 * Enhanced overall user experience
 
----
-
 ## Version 1.1.8 — June 16, 2026
 
 **BETA Release**
