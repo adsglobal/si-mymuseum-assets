@@ -15,13 +15,11 @@
 
 ### What's New
 
-- Improved app performance and reliability
 - Enhanced login experience and clearer messages
-- Refined screen layouts for a smoother experience
-- General improvements and bug fixes
 - Added support for creating timesheets exceeding 12 total hours with feedback prompts
 - Improved Customer No. selection experience
-
+- Improved app performance and reliability
+- General improvements and bug fixes
   
 ---
 
