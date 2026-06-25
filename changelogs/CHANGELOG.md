@@ -19,12 +19,10 @@
 - Enhanced login experience and clearer messages
 - Refined screen layouts for a smoother experience
 - General improvements and bug fixes
+- Added support for creating timesheets exceeding 12 total hours with feedback prompts
+- Improved Customer No. selection experience
 
+  
 ---
 
 ## Version 1.1.8 — June 16, 2026 *(Beta)*
-
-### What's New
-
-- Added support for creating timesheets exceeding 12 total hours with feedback prompts
-- Improved Customer No. selection experience
