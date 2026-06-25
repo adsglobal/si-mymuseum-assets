@@ -1,3 +1,13 @@
+## Version 1.2.0 — June 25, 2026
+
+### What's New
+
+* Improved timesheet log selection
+* Added required remarks when submitting unlock requests 
+* Improved app update checking to help ensure you stay on the latest version
+* Enhanced overall app performance and reliability
+* General improvements and bug fixes
+
 ## Version 1.1.9 — June 18, 2026
 
 ### What's New
