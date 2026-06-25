@@ -3,6 +3,7 @@
 ### What's New
 
 - Improved timesheet log selection
+- Improved Canvas approval experience
 - Added required remarks when submitting unlock requests
 - Improved app update checking to help ensure you stay on the latest version
 - Enhanced overall app performance and reliability
