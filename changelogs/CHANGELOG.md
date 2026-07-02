@@ -1,3 +1,13 @@
+## Version 1.2.1 — July 2, 2026
+
+### What's New
+
+- Introduced eApproval
+- Enhanced overall app performance and reliability
+- General improvements and bug fixes
+
+---
+
 ## Version 1.2.0 — June 25, 2026
 
 ### What's New
