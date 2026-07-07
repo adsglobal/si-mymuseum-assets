@@ -1,6 +1,6 @@
-# Version 1.2.2 — July 7, 2026
+## Version 1.2.2 — July 7, 2026
 
-## What's New
+### What's New
 
 * Enhanced Leave History.
 * Enhanced Leave Overview.
