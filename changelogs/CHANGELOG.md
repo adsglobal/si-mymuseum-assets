@@ -1,3 +1,17 @@
+# Version 1.2.2 — July 7, 2026
+
+## What's New
+
+* Improved Leave History.
+* Improved Leave Overview.
+* Improved Attendance History.
+* Updated **Lights Out** to allow users to clock out without requiring a minimum of 8 recorded work hours.
+* Separated **Lights Out** from daily timesheet validation, allowing timesheets to be completed within the 3-day grace period.
+* **New: Customize Action Cards** – Personalize your action cards by going to **Appearance → Action Card Style → See All → Customize**. Create your own card designs, share them with others, or import custom styles by scanning a shared QR code.
+* Enhanced lockout logic to provide greater flexibility while ensuring timesheets are completed within the required timeframe.
+* General bug fixes, performance improvements, and stability enhancements.
+
+
 ## Version 1.2.1 — July 2, 2026
 
 ### What's New
