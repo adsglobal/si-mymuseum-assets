@@ -7,9 +7,7 @@
 
 
 ## Version 1.2.2 — July 7, 2026
-
 ### What's New
-
 * Enhanced Leave History.
 * Enhanced Leave Overview.
 * Enhanced Attendance History.
@@ -19,6 +17,33 @@
 * Separated **Lights Out** from daily timesheet validation, allowing timesheets to be completed within the 3-day grace period.
 * **New Feature: Customize Action Cards** – Personalize your action cards by going to **Appearance → Action Card Style → See All → Customize**. Create your own card designs, share them with others, or import custom styles by scanning a shared QR code.
 * General bug fixes, performance improvements, and stability enhancements.
+
+#### 📌 Good to Know: When Your Timesheet Gets Locked
+
+You can always edit your timesheet entries for the **last 3 days**. If any day **before** that still has **less than 8 recorded hours**, your timesheet gets locked and you'll need to request an unlock.
+
+**Example: No Lock**
+*Current Day: 10 Jul*
+
+| Date  | Hours | Status    |
+| ----- | ----: | --------- |
+| 9 Jul |    7h | Editable  |
+| 8 Jul |    5h | Editable  |
+| 7 Jul |    6h | Editable  |
+
+✅ All good — no unlock needed.
+
+**Example: Locked**
+*Current Day: 10 Jul*
+
+| Date  | Hours | Status              |
+| ----- | ----: | -------------------- |
+| 9 Jul |    7h | Editable              |
+| 8 Jul |    5h | Editable              |
+| 7 Jul |    6h | Editable              |
+| 6 Jul |    3h | ⚠️ Incomplete, locked |
+
+🔒 6 Jul has under 8 hours and is outside your 3-day edit window — submit a **Timesheet Unlock Request** to fix it.
 
 
 ## Version 1.2.1 — July 2, 2026
