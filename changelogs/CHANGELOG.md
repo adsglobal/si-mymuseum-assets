@@ -3,6 +3,8 @@
 * Fixed an issue where total attendance hours could be calculated incorrectly.
 * **New Feature: Staff info-Board Summary** (beta)
 * Improved overall stability and performance.
+  
+---
 
 ## Version 1.2.2 — July 7, 2026
 ### What's New
