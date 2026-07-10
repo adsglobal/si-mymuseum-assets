@@ -45,6 +45,8 @@ All good — no unlock needed.
 
 6 Jul has under 8 hours and is outside your 3-day edit window — submit a **Timesheet Unlock Request** to fix it.
 
+---
+
 ## Version 1.2.1 — July 2, 2026
 ### What's New
 - Introduced eApproval
