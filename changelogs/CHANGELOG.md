@@ -1,7 +1,7 @@
 ## Version 1.2.3 — July 9, 2026
 ### What's New
 * Fixed an issue where total attendance hours could be calculated incorrectly.
-* **New Feature: Staff info-Board Summary** (beta)
+* **New Feature: Staff info-Board Summary** *(Beta)*
 * Improved overall stability and performance.
   
 ---
@@ -23,27 +23,27 @@
 You can always edit your timesheet entries for the **last 3 days**. If any day **before** that still has **less than 8 recorded hours**, your timesheet gets locked and you'll need to request an unlock.
 
 **Example: No Lock**
-*Current Day: 10 Jul*
+*Current Day: 10 July*
 
 | Date  | Hours | Status    |
 | ----- | ----: | --------- |
-| 9 Jul |    7h | Editable  |
-| 8 Jul |    5h | Editable  |
-| 7 Jul |    6h | Editable  |
+| 9 July |    7h | Editable  |
+| 8 July |    5h | Editable  |
+| 7 July |    6h | Editable  |
 
 All good — no unlock needed.
 
 **Example: Locked**
-*Current Day: 10 Jul*
+*Current Day: 10 July*
 
 | Date  | Hours | Status              |
 | ----- | ----: | -------------------- |
-| 9 Jul |    7h | Editable              |
-| 8 Jul |    5h | Editable              |
-| 7 Jul |    6h | Editable              |
-| 6 Jul |    3h | Incomplete, locked    |
+| 9 July |    7h | Editable              |
+| 8 July |    5h | Editable              |
+| 7 July |    6h | Editable              |
+| 6 July |    3h | Incomplete, locked    |
 
-6 Jul has under 8 hours and is outside your 3-day edit window — submit a **Timesheet Unlock Request** to fix it.
+6 July has under 8 hours and is outside your 3-day edit window — submit a **Timesheet Unlock Request** to fix it.
 
 ---
 
