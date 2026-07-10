@@ -1,3 +1,11 @@
+## Version 1.2.4 — July 11, 2026
+### What's New
+* Improved the conditions for requesting a timesheet unlock.
+* Improved unclear messages for better clarity.
+* Enhanced overall app performance and reliability
+  
+---
+
 ## Version 1.2.3 — July 9, 2026
 ### What's New
 * Fixed an issue where total attendance hours could be calculated incorrectly.
