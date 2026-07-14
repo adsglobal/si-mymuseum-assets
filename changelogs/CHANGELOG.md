@@ -1,3 +1,9 @@
+## Version 1.2.5 — Coming Soon
+### What's New
+* Enhanced search to find matching logs across all records, regardless of the selected tab or excluded status filters.
+    
+---
+
 ## Version 1.2.4 — July 11, 2026
 ### What's New
 * Improved the conditions for requesting a timesheet unlock.
