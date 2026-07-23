@@ -1,5 +1,6 @@
 ## Version 1.2.5 — Coming Soon
 ### What's New
+* Integrated Notifications – Receive important updates and announcements directly within the app.
 * Enhanced search to find matching logs across all records, regardless of the selected tab or excluded status filters.
     
 ---
