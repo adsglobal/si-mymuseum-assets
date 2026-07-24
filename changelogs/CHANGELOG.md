@@ -4,7 +4,7 @@
    timesheet and log your hours — no need to clock in or out.
 * **OT on rest days & leave won't lock your timesheet.** Even if you only log a few
   hours, those days are excluded from the "under 8 hours" rule.
-* Integrated Notifications – Receive important updates and announcements directly within the app.
+* **Integrated Notifications** – Receive important updates and announcements directly within the app.
 * Enhanced search to find matching logs across all records, regardless of the selected tab or excluded status filters.
     
 ---
