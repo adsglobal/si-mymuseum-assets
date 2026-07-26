@@ -1,4 +1,4 @@
-## Version 1.2.5 — Coming Soon
+## Version 1.2.5 — July 27, 2026
 ### What's New
 * **Working OT on your rest day or while on leave?** You can now jump straight to your
    timesheet and log your hours — no need to clock in or out.
