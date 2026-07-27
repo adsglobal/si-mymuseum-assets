@@ -1,3 +1,10 @@
+## Version 1.2.6 — Coming soon
+### What's New
+* **Introduced Voice Assistant for hands-free interaction.**
+
+---
+
+
 ## Version 1.2.5 — July 27, 2026
 ### What's New
 * **Working OT on your rest day or while on leave?** You can now jump straight to your
