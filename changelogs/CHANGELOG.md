@@ -1,6 +1,7 @@
 ## Version 1.2.6 — Coming soon
 ### What's New
-* **Introduced Voice Assistant for hands-free interaction.**
+* **Fixed an issue where notifications were not saved on iOS.**
+* **Introduced Voice Assistant v1**, enabling hands-free interaction with the app.
 
 ---
 
