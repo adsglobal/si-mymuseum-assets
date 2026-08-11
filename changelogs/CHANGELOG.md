@@ -1,7 +1,8 @@
 ## Version 1.2.6 — Coming soon
 ### What's New
+* **Improved** connection stability for devices experiencing connectivity issues.
 * **Fixed** an issue where **notifications** were not saved on iOS.
-* **Introduced Voice Assistant (Beta v1)**.
+* **Introduced Voice Assistant (Beta v1)** integrated into the Clock In and Clock Out screens.
 
 ---
 
