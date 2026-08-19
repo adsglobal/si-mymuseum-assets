@@ -23,6 +23,7 @@
 * Filters set on the **Staff Info-Board** carrying over into the day summary.
 * Shorter months overflowing the **Leave Calendar** grid.
 * Content hidden behind the bottom bar on several screens.
+* Apostrophes, ampersands and quotation marks appearing as codes instead of characters in log titles and descriptions.
 
 ### Improved
 
@@ -36,6 +37,11 @@
 * **Artist Insight** now opens the day summary, and you can look back at any past date.
 * Staff attendance records now include today's attendance.
 * **App Permissions**, **Font** and **Storage & Files** screens redesigned.
+
+### Thanks
+
+* **Chong Ming Luan** — for reporting the special characters in log.
+
 
 
 ---
