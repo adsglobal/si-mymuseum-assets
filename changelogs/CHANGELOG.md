@@ -40,7 +40,7 @@
 
 ### Thanks
 
-* **Chong Ming Luan** — for reporting the special characters in log.
+* **@Chong Ming Luan** — for reporting the special characters in log.
 
 
 
