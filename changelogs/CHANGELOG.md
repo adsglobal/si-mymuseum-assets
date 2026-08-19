@@ -1,8 +1,20 @@
+
 ## Version 1.2.6 — Coming soon
+
 ### What's New
+
+* **Introduced Voice Assistant (Beta v1)** integrated into the Clock In and Clock Out screens.
 * **Improved** connection stability for devices experiencing connectivity issues.
 * **Fixed** an issue where **notifications** were not saved on iOS.
-* **Introduced Voice Assistant (Beta v1)** integrated into the Clock In and Clock Out screens.
+* **Fixed** past leave missing from the **Leave Calendar**, **Leave Record** and staff attendance records.
+* **Fixed** approved upcoming leave not showing on a staff member's record.
+* **Fixed** incorrect attendance counts on the **Staff Info-Board**.
+* **Fixed** some days missing from staff attendance records over longer date ranges.
+* **Improved** the **Staff Info-Board** with a clearer date strip, simpler filtering and tappable attendance tiles.
+* **Improved** the staff list with colour-coded clock-in and clock-out times.
+* **Improved** staff attendance records — today is now included, with an icon for each type of day.
+* **Improved** the **Leave Record** with an icon and full name for each type of leave.
+
 
 ---
 
