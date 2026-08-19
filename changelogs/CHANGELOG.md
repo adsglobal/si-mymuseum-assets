@@ -1,19 +1,41 @@
 
 ## Version 1.2.6 — Coming soon
 
-### What's New
+### New
 
-* **Introduced Voice Assistant (Beta v1)** integrated into the Clock In and Clock Out screens.
-* **Improved** connection stability for devices experiencing connectivity issues.
-* **Fixed** an issue where **notifications** were not saved on iOS.
-* **Fixed** past leave missing from the **Leave Calendar**, **Leave Record** and staff attendance records.
-* **Fixed** approved upcoming leave not showing on a staff member's record.
-* **Fixed** incorrect attendance counts on the **Staff Info-Board**.
-* **Fixed** some days missing from staff attendance records over longer date ranges.
-* **Improved** the **Staff Info-Board** with a clearer date strip, simpler filtering and tappable attendance tiles.
-* **Improved** the staff list with colour-coded clock-in and clock-out times.
-* **Improved** staff attendance records — today is now included, with an icon for each type of day.
-* **Improved** the **Leave Record** with an icon and full name for each type of leave.
+* **Voice Assistant (Beta v1)** in the Clock In and Clock Out screens — clock in and out by speaking, including saying where you are.
+* Voice commands now accept several ways of saying the same thing, and the **Voice Assistant** screen lists every phrase it listens for.
+* **App Permissions** screen — see what the app has access to and change it without leaving the app.
+* A full **attendance record** for each staff member, opened from the **Staff Info-Board**: punctuality figures, patterns, and a day-by-day history.
+* A **Leave Record** for each staff member, opened from the **Leave Calendar**: leave booked, leave taken, patterns, and history.
+
+### Fixed
+
+* **Notifications** not saved on iOS.
+* The Voice Assistant cutting off longer commands, and not listening again after the first one.
+* **App Permissions** reporting the wrong state for photo access — the reason the screen was previously unavailable.
+* Text cut off or wrongly bolded at larger font sizes.
+* **Storage & Files** showing the wrong size before clearing data, and failing silently when it could not.
+* Attachment previews using too much memory, and dismissing a dialog closing the whole screen.
+* Leave missing from the **Leave Calendar**, **Leave Record** and staff attendance records, including approved leave that has not happened yet.
+* Incorrect attendance counts on the **Staff Info-Board**.
+* Some days missing from staff attendance records over longer date ranges.
+* Filters set on the **Staff Info-Board** carrying over into the day summary.
+* Shorter months overflowing the **Leave Calendar** grid.
+* Content hidden behind the bottom bar on several screens.
+
+### Improved
+
+* Connection stability on devices with poor reception.
+* Faster, smoother start-up.
+* Screen transitions now follow the platform — iOS on iPhone, Android on Android.
+* Fonts are now built into the app, so text appears instantly and looks the same offline.
+* The **Staff Info-Board**, **Leave Calendar** and day summary all load noticeably faster.
+* The **Staff Info-Board** — a clearer date strip, simpler filtering, and colour-coded clock-in and clock-out times.
+* The **Leave Calendar** redesigned around the month grid, with a tappable staff list beneath it.
+* **Artist Insight** now opens the day summary, and you can look back at any past date.
+* Staff attendance records now include today's attendance.
+* **App Permissions**, **Font** and **Storage & Files** screens redesigned.
 
 
 ---
