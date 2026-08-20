@@ -1,5 +1,5 @@
 
-## Version 1.2.6 — Coming soon
+## Version 1.2.6 — Aug 21, 2026
 
 ### New
 
